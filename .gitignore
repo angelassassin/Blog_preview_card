@@ -26,11 +26,9 @@
 !styles.css
 
 # Whitelist the 'images' folder and its contents recursively:
-/assests/*
+!/assests/
 !/assests/images/
 !/assests/images/**
-/assests/images/*
-!/assests/images/illustration-article.svg
 
 # 4. RE-IGNORE DESIGN/STYLE FOLDERS
 # Since we unignored all directories globally with '!*/', we must
