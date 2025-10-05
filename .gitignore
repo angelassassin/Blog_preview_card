@@ -30,6 +30,7 @@
 !/assets/images/
 /assets/images/*
 !/assets/images/illustration-article.svg
+!/assests/images/image-avatar.webp
 
 # 4. RE-IGNORE DESIGN/STYLE FOLDERS
 # Since we unignored all directories globally with '!*/', we must
