@@ -28,6 +28,7 @@
 # Whitelist the 'images' folder and its contents recursively:
 !/assets/
 !/assets/images/
+/assets/images/*
 !/assets/images/illustration-article.svg
 
 # 4. RE-IGNORE DESIGN/STYLE FOLDERS
